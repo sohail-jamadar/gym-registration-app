@@ -3,11 +3,14 @@ import { CommonModule } from '@angular/common';
 import { RouterModule, Routes } from '@angular/router';
 import { CreateRegistrationComponent } from './create-registration/create-registration.component';
 import { RegistrationListComponent } from './registration-list/registration-list.component';
+import { UserDetailsComponent } from './user-details/user-details.component';
 
 const routes: Routes = [
   { path: '', redirectTo: 'register', pathMatch: 'full' },
   { path: 'register', component: CreateRegistrationComponent },
-  { path: 'list', component: RegistrationListComponent }
+  { path: 'list', component: RegistrationListComponent },
+  { path: 'detail/:id', component: UserDetailsComponent},
+  { path: 'update/:id', component: CreateRegistrationComponent}
 ]
 
 @NgModule({

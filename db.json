@@ -1,0 +1,161 @@
+{
+  "enquiry": [
+    {
+      "firstName": "john",
+      "lastName": "smith",
+      "email": "js@example.com",
+      "mobile": "12345",
+      "weight": 55,
+      "height": 165,
+      "bmi": 20.2020202020202,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-07-14T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "john",
+      "lastName": "son",
+      "email": "js@example.com",
+      "mobile": "12345",
+      "weight": 55,
+      "height": 165,
+      "bmi": 20.2020202020202,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Toxic Fat Reduction",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-07-30T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "tiger",
+      "lastName": "scott",
+      "email": "tg@example.com",
+      "mobile": "12345",
+      "weight": 85,
+      "height": 170,
+      "bmi": 29.41176470588235,
+      "bmiResult": "Overweight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Monthly",
+      "important": [
+        "Toxic Fat Reduction",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-07-31T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "firstName": "john",
+      "lastName": "scott",
+      "email": "js@example.com",
+      "mobile": "520123456",
+      "weight": 75,
+      "height": 180,
+      "bmi": 23.148148148148145,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-07-31T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "firstName": "john",
+      "lastName": "doe",
+      "email": "js@example.com",
+      "mobile": "12345",
+      "weight": 65,
+      "height": 178,
+      "bmi": 20.515086478979928,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-07-24T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "firstName": "david",
+      "lastName": "john",
+      "email": "david@example.com",
+      "mobile": "456789",
+      "weight": 74,
+      "height": 165,
+      "bmi": 27.180899908172638,
+      "bmiResult": "Overweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Energy and Endurance",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-07-30T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "firstName": "abc",
+      "lastName": "def",
+      "email": "abcdef@example.com",
+      "mobile": "123456",
+      "weight": 85,
+      "height": 150,
+      "bmi": 37.77777777777778,
+      "bmiResult": "Obese",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Toxic Fat Reduction",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-07-26T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "weight": "",
+      "height": "",
+      "bmi": "",
+      "bmiResult": "",
+      "gender": "",
+      "requireTrainer": "",
+      "package": "",
+      "important": "",
+      "haveGymBefore": "",
+      "enquiryDate": "",
+      "id": 11
+    }
+  ]
+}
